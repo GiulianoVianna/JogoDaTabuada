@@ -1,6 +1,8 @@
 # Jogo da Tabuada
 Jogo divertido de tabuada com indicador de acertos e erros.
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" heigth="100"  />  
+
 ## Definição da Aplicação
 A aplicação é um jogo educativo simples chamado "Jogo da Tabuada", desenvolvido com Python e a biblioteca PyQt5. O jogo apresenta perguntas de multiplicação aleatórias, nas quais o usuário deve inserir a resposta correta. A interface do jogo mostra a quantidade de acertos e erros do usuário. A aplicação tem como objetivo ajudar as pessoas a praticarem e melhorarem suas habilidades de multiplicação de uma maneira divertida e interativa.
 
